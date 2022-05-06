@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Beckdotan
-- 👀 I’m interested in Data Science, Computer Vision, visualization, Pictures-manipulations and more. 
-- 🌱 I’m currently learning Computer Sience In IDC and online full python course in coursera.
-- 💞️ I’m looking to collaborate on any kind of programing related to visualization. 
-- 📫 How to reach me dotan.beck@gmail.com
+- 👋🏼 Hi, I’m Dotan Beck
+- 🤔 I’m interested in Data Science, Computer Vision, visualization, Pictures-manipulations and more. 
+- 📲 Full-stack android (java) developer in Milab.
+- 🛰 Software team leader and guide for youth. together we build satellites and ground systems to control them.    
+- 🧑🏻‍🎓 Computer Science 2nd-year student In IDC
+- 👨🏻‍💻 I’m looking for a job in the DS or CV fields
+- Reach me at dotan.beck@gmail.com
+-- 
+
 
 <!---
 Beckdotan/Beckdotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
