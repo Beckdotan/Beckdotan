@@ -5,7 +5,6 @@
 - 🧑🏻‍🎓 Computer Science 2nd-year student In IDC
 - 👨🏻‍💻 I’m looking for a job in the DS or CV fields
 - Reach me at dotan.beck@gmail.com
--- 
 
 
 <!---
